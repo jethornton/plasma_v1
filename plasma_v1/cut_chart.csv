@@ -1,0 +1,42 @@
+material,gauge,thickness,nozzle,voltage,current,height,delay,speed,kerf
+Mild Steel,10 ga,0.134,Fine Cut,76,50,0.08,0,90,0.051
+Mild Steel,10 ga,0.134,Fine Cut,83,40,0.08,0,50,0.051
+Mild Steel,12 ga,0.106,Fine Cut,77,45,0.08,0,120,0.05
+Mild Steel,12 ga,0.106,Fine Cut,81,40,0.08,0,70,0.05
+Mild Steel,14 ga,0.075,Fine Cut,79,40,0.08,0,135,0.049
+Mild Steel,16 ga,0.059,Fine Cut,79,40,0.08,0,150,0.046
+Mild Steel,18 ga,0.071,Fine Cut,79,40,0.08,0,150,0.043
+Mild Steel,20 ga,0.035,Fine Cut,78,40,0.08,0,120,0.034
+Mild Steel,22 ga,0.032,Fine Cut,81,30,0.08,0,130,0.024
+Mild Steel,24 ga,0.024,Fine Cut,80,30,0.08,0,150,0.024
+Stainless Steel,10 ga,0.134,Fine Cut,63,50,0.08,0,80,0.051
+Stainless Steel,10 ga,0.134,Fine Cut,73,40,0.08,0,60,0.051
+Stainless Steel,12 ga,0.106,Fine Cut,63,45,0.08,0,100,0.05
+Stainless Steel,12 ga,0.106,Fine Cut,72,40,0.08,0,80,0.05
+Stainless Steel,14 ga,0.075,Fine Cut,65,40,0.08,0,150,0.049
+Stainless Steel,16 ga,0.059,Fine Cut,64,40,0.08,0,150,0.046
+Stainless Steel,18 ga,0.071,Fine Cut,64,40,0.08,0,150,0.043
+Stainless Steel,20 ga,0.035,Fine Cut,65,40,0.08,0,150,0.034
+Stainless Steel,22 ga,0.032,Fine Cut,81,30,0.08,0,130,0.024
+Stainless Steel,24 ga,0.024,Fine Cut,66,30,0.08,0,150,0.024
+Mild Steel,1/4,0.250,40 Amp Shielded,149,40,0.063,1,48,0.066
+Mild Steel,3/16,0.188,40 Amp Shielded,147,40,0.063,0.75,63,0.065
+Mild Steel,10 ga,0.134,40 Amp Shielded,146,40,0.063,0.5,98,0.061
+Mild Steel,14 ga,0.075,40 Amp Shielded,144,40,0.063,0.25,221,0.055
+Mild Steel,16 ga,0.059,40 Amp Shielded,152,25,0.063,0,114,0.055
+Mild Steel,18 ga,0.071,40 Amp Shielded,149,25,0.063,0,203,0.054
+Mild Steel,22 ga,0.032,40 Amp Shielded,148,25,0.063,0,325,0.035
+Mild Steel,26 ga,0.020,40 Amp Shielded,147,25,0.063,0,415,0.035
+Stainless Steel,1/4,0.250,40 Amp Shielded,149,40,0.063,1,31,0.066
+Stainless Steel,3/16,0.188,40 Amp Shielded,149,40,0.063,0.75,44,0.065
+Stainless Steel,10 ga,0.134,40 Amp Shielded,147,40,0.063,0.5,70,0.061
+Stainless Steel,14 ga,0.075,40 Amp Shielded,144,40,0.063,0.25,144,0.055
+Stainless Steel,16 ga,0.059,40 Amp Shielded,144,40,0.063,0.25,243,0.055
+Stainless Steel,18 ga,0.071,40 Amp Shielded,142,40,0.063,0.25,335,0.054
+Stainless Steel,22 ga,0.032,40 Amp Shielded,139,25,0.063,0,322,0.035
+Stainless Steel,26 ga,0.020,40 Amp Shielded,139,25,0.063,0,410,0.035
+Aluminum,1/4,0.25,40 Amp Shielded,151,40,0.063,1,49,0.06
+Aluminum,1/8,0.125,40 Amp Shielded,149,40,0.063,0.5,133,0.065
+Aluminum,3/32,0.094,40 Amp Shielded,146,40,0.063,0.25,190,0.063
+Aluminum,1/16,0.063,40 Amp Shielded,152,25,0.063,0,174,0.061
+Aluminum,1/32,0.031,40 Amp Shielded,152,25,0.063,0,397,0.059
